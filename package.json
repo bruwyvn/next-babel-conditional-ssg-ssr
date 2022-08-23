@@ -1,19 +1,15 @@
 {
-  "name": "next-babel-conditional-ssg-ssr",
+  "name": "nextjs-conditional-ssg-ssr",
   "version": "1.0.1",
-  "description": "A babel plugin for Next.js that conditionally removes getStaticProps/getStaticPaths or getServerSideProps depending on the desired mode.",
+  "description": "A plugin for Next.js that conditionally removes getStaticProps/getStaticPaths or getServerSideProps depending on the desired mode.",
   "main": "index.js",
-  "author": "",
   "license": "MIT",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erzr/next-babel-conditional-ssg-ssr.git"
+    "url": "git+https://github.com/bruwyvn/nextjs-conditional-ssg-ssr.git"
   },
   "bugs": {
-    "url": "https://github.com/erzr/next-babel-conditional-ssg-ssr/issues"
+    "url": "https://github.com/bruwyvn/nextjs-conditional-ssg-ssr/issues"
   },
-  "homepage": "https://github.com/erzr/next-babel-conditional-ssg-ssr#readme"
+  "homepage": "https://github.com/bruwyvn/nextjs-conditional-ssg-ssr#readme"
 }
