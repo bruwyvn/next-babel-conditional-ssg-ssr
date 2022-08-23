@@ -14,8 +14,19 @@ This fork includes a [PR](https://github.com/erzr/next-babel-conditional-ssg-ssr
 
 First, start by add this project as a developer dependency using NPM, pnpm or yarn.
 
-```
+```bash
+# NPM
 npm install -D nextjs-conditional-ssg-ssr
+```
+
+```bash
+# pnpm
+pnpm add -D nextjs-conditional-ssg-ssr
+```
+
+```bash
+# yarn
+yarn add -D nextjs-conditional-ssg-ssr
 ```
 
 After that, one way to integrate this is to create a `babel.config.js` in the root of your Next.js project. Here's what that would look like:
